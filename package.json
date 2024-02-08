@@ -1,0 +1,23 @@
+{
+  "name": "ajs_-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Al101010/ajs_-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Al101010/ajs_-2/issues"
+  },
+  "homepage": "https://github.com/Al101010/ajs_-2#readme",
+  "dependencies": {
+    "@al101010/ajs_": "^1.0.0"
+  }
+}
